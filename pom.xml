@@ -5,10 +5,17 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.tecsup.lab03</groupId>
+<<<<<<< HEAD
   <artifactId>lab03-4C24--GR04-</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
   <name>lab03-4C24--GR04-</name>
+=======
+  <artifactId>lab03-4C24--GP04-</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+
+  <name>lab03-4C24--GP04-</name>
+>>>>>>> branch 'master' of https://github.com/EfrainHSeg/lab03-4C24--GP04-.git
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
